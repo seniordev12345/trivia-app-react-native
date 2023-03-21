@@ -1,5 +1,7 @@
 # React Native Trivia Quiz
 
+A simple trivia game built with React Native, Redux, and the [Open Trivia Database](https://opentdb.com/).
+![](https://github.com/seniordev12345/trivia-react-native/raw/assets/app.gif)
 
 ## Getting Started
 
@@ -95,3 +97,18 @@ npm start
 * [Celebration](https://freesound.org/people/sonsdebarcelona/sounds/221937/) by [sonsdebarcelona](https://freesound.org/people/sonsdebarcelona/)
 
 * [Jazzy Chords](https://freesound.org/people/NenadSimic/sounds/150879/) by [NenadSimic](https://freesound.org/people/NenadSimic/)
+## Authors
+Vin Busquet
+* [https://github.com/computationalcore](https://github.com/computationalcore)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Changelog
+
+For details, check out [CHANGELOG.md](CHANGELOG.md).
+
+## Acknowledgments
+* [Open Trivia DB](https://opentdb.com/)
+* [Crowdbotics](https://www.crowdbotics.com/)
